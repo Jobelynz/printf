@@ -1,4 +1,9 @@
 #include "main.h"
+#include <stdarg.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <limits.h>
+#include <stdlib.h>
 
 /**
  * print_hex - prints unsigned hex numbers in lowercase

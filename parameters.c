@@ -1,4 +1,9 @@
 #include "main.h"
+#include <stdlib.h>
+#include <limits.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <stdarg.h>
 
 /**
  * init_params - clears struct fields and reset buf

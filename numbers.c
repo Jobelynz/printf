@@ -1,4 +1,9 @@
 #include "main.h"
+#include <stdarg.h>
+#include <unistd.h>
+#include <limits.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 /**
  * convert - converter function, a clone of itoa
